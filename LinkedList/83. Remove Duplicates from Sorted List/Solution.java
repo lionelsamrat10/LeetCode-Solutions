@@ -23,3 +23,4 @@ class Solution {
         return ptr; //it is the new head of the LL
     }
 }
+//Better than 100% Solutions
