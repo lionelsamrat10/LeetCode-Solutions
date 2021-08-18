@@ -9,3 +9,7 @@ class Solution {
         return bin_search(arr, mid + 1, r);
     }
 }
+
+
+// Runtime: 0 ms, faster than 100.00% of Java online submissions for Peak Index in a Mountain Array.
+// Memory Usage: 39.1 MB, less than 65.17% of Java online submissions for Peak Index in a Mountain Array.
