@@ -23,5 +23,6 @@ Click on Add File button and select Create new file button.
 2) Then write your code and hit commit.
 3) Then click on pull request tab 
 4) Generate a new Pull Request and Make the contribution.
-5) Happy Coding! :)
+5) Don't forget to Star the Repo xD
+6) Happy Coding! :)
 
