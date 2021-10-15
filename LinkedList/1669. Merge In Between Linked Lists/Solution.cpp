@@ -1,8 +1,6 @@
 //  Author: Vaibhav Singh
 //  Time Complexity - O(n)
 
-
-
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -13,7 +11,6 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 
 class Solution {
 public:
