@@ -36,4 +36,12 @@ Click on Add File button and select Create new file button.
 - Recursion
 - Stack and Queue
 
+# Contributors
 
+<a href="https://github.com/lionelsamrat10/LeetCode-Solutions/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lionelsamrat10/LeetCode-Solutions" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
+
+**Do ⭐ the repo if you find it useful!!** ☺😇☺ 
