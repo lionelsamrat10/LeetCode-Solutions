@@ -28,7 +28,7 @@ Click on Add File button and select Create new file button.
 
 ## Add solutions of problems regarding the following topics (You can add solutions in any of the languages you want and also Brute Force, Better, Optimal any approach can be added and also please add Time and Space Complexity of the algorithm that you have developed)
 
-- Heap
+- Heap    
 - Graph
 - Trie
 - Dynamic Programming
