@@ -3,7 +3,7 @@
 # HacktoberFest Repository (🌟 Star this repository!🌟)  
 ## Submit your solutions for different Leetcode Problems and also keep them in separate folders, like if you are adding a problem of array, keep it in the array folder and also make folders for the language in which you are storing your solution like: Array/java/<your_file_name>.java Keep it that way
 
-## And I will definitely merge the Pull Requests as soon as possible. Happy Hacking       
+## And I will definitely merge the Pull Requests as soon as possible. Happy Hacking         
 
 
 This is a Hacktoberfest-Repository,feel free to make your conttributions here this month to win your swagss!!Happy Coding! :)
