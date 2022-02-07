@@ -13,7 +13,7 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 
 👉 <a href="https://hacktoberfest.digitalocean.com/">Official HacktoberFest Page</a> 👈     
  
-## 👕 HacktoberFest- Get your Free T-shirt Now.    
+## 👕 HacktoberFest- Get your Free T-shirt Now.        
 Create your first Pull Request 🔥(PR).
 
 ### 👣 Steps to Make your 1st PR Contribution:
