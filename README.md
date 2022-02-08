@@ -6,7 +6,7 @@
 ## And I will definitely merge the Pull Requests as soon as possible. Happy Hacking         
   
 
-This is a Hacktoberfest-Repository,feel free to make your conttributions here this month to win your swagss!!Happy Coding! :)
+This is a Hacktoberfest-Repository,feel free to make your conttributions here this month to win your swagss!!Happy Coding! :)  
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
