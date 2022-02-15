@@ -20,7 +20,7 @@ Create your first Pull Request 🔥(PR).
 Fork this repository by click the Fork button in the top right of this page.
 Click on Add File button and select Create new file button.
 1) Set the file name with (FileName).java (FileName).py or (FileName).c 
-2) Then write your code and hit commit.
+2) Then write your code and hit commit.  
 3) Then click on pull request tab 
 4) Generate a new Pull Request and Make the contribution.
 5) Don't forget to Star the Repo xD
